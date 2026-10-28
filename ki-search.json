@@ -1,0 +1,139 @@
+agent-cli-detector
+Detect whether a JavaScript CLI is running inside a coding agent.
+Version 0.1.7 published 2026-08-24 by GitHub Actions
+Maintainers: ide brentvatne expoadmin exponent bycedric kudochien alanhughes tsapeta expo-bot philpl ccheever szdziedzic wschurman davidmokos
+Keywords: agent cli detection codex claude opencode
+https://npm.im/agent-cli-detector
+
+@conciso/design-system-mcp
+MCP-Server für Consumer des Conciso Design System, beantwortet docs-list, docs-show und docs-show-story über stdio aus einem mitgelieferten Storybook-Snapshot, ohne Netzzugriff.
+Version 2.12.0 published 2026-10-08 by GitHub Actions
+Maintainers: sventorben dominikpieper npm_conciso_thorsten
+Keywords: mcp mcp-server model-context-protocol design-system conciso angular storybook claude copilot cursor ai
+https://npm.im/@conciso/design-system-mcp
+
+ki-forms
+Build dynamic React forms from JSON with zero setup.
+Version 2.5.0 published 2026-09-27 by kadirulislam
+Maintainers: kadirulislam
+Keywords: react forms dynamic forms json forms react form builder nextjs forms form generator
+https://npm.im/ki-forms
+
+strip-json-comments
+Strip comments from JSON. Lets you use comments in your JSON files!
+Version 5.0.3 published 2025-08-08 by sindresorhus
+Maintainers: sindresorhus
+Keywords: json strip comments remove delete trim multiline parse config configuration settings util env environment jsonc
+https://npm.im/strip-json-comments
+
+json-schema-traverse
+Traverse JSON Schema passing each schema object to callback
+Version 1.0.0 published 2020-12-13 by esp
+Maintainers: esp
+Keywords: JSON-Schema traverse iterate
+https://npm.im/json-schema-traverse
+
+ajv
+Another JSON Schema Validator
+Version 8.20.0 published 2026-04-24 by esp
+Maintainers: blakeembrey esp
+Keywords: JSON schema validator validation jsonschema json-schema json-schema-validator json-schema-validation
+https://npm.im/ajv
+
+parse-json
+Parse JSON with more helpful errors
+Version 8.3.0 published 2025-04-09 by sindresorhus
+Maintainers: sindresorhus
+Keywords: parse json graceful error message humanize friendly helpful string
+https://npm.im/parse-json
+
+kimal3
+Trag deine KI-Projekte dort ein, wo sie entstehen: im Terminal. · Log your AI projects where they happen: in the terminal.
+Version 0.8.0 published 2026-10-26 by roces86
+Maintainers: roces86
+Keywords: kimal3 cli
+https://npm.im/kimal3
+
+json-schema
+JSON Schema validation and specifications
+Version 0.4.0 published 2021-11-09 by kriszyp
+Maintainers: kriszyp
+Keywords: json schema
+https://npm.im/json-schema
+
+ki
+lisp + mori, sweet.js
+Version 0.2.5 published 2016-02-06 by lantiga
+Maintainers: lantiga
+Keywords: lisp data persistent functional clojure clojurescript macros macro sweet-macros
+https://npm.im/ki
+
+json5
+JSON for Humans
+Version 2.2.3 published 2022-12-31 by jordanbtucker
+Maintainers: jordanbtucker aseemk
+Keywords: json json5 es5 es2015 ecmascript
+https://npm.im/json5
+
+json-schema-typed
+JSON Schema TypeScript definitions with complete inline documentation.
+Version 9.0.0 published 2026-10-15 by GitHub Actions
+Maintainers: remyrylan
+Keywords: jsonschema typescript types definitions json schema
+https://npm.im/json-schema-typed
+
+@matatbread/matbot-persist-ki-bge
+Persistent KnowledgeIndex backed by a Store, with entity/heading search and optional BGE reranker.
+Version 0.4.16 published 2026-09-18 by matatbread
+Maintainers: matatbread
+Keywords: matbot matbot-plugin llm ai agent
+https://npm.im/@matatbread/matbot-persist-ki-bge
+
+@discoveryjs/json-ext
+A set of efficient utilities that extend the use of JSON (streaming, estimate size, NDJSON/JSONL, etc.)
+Version 1.1.0 published 2026-05-03 by lahmatiy
+Maintainers: lahmatiy smelukov exdis
+Keywords: json jsonl ndjson utils stream streaming webstreams async promise generator parse stringify info
+https://npm.im/@discoveryjs/json-ext
+
+mythos-code
+Mythos Code – KI-Coding-Agent im Terminal (by Mythoscraft)
+Version 1.7.8 published 2026-10-10 by minepro
+Maintainers: minepro
+Keywords: ai cli agent mythos coding
+https://npm.im/mythos-code
+
+@types/json-schema
+TypeScript definitions for json-schema
+Version 7.0.15 published 2023-11-07 by types
+Maintainers: types
+https://npm.im/@types/json-schema
+
+zod-to-json-schema
+Converts Zod schemas to Json Schemas
+Version 3.25.2 published 2026-03-27 by stefan-terdell
+Maintainers: stefan-terdell
+Keywords: zod json schema open api conversion
+https://npm.im/zod-to-json-schema
+
+@apidevtools/json-schema-ref-parser
+Parse, Resolve, and Dereference JSON Schema $ref pointers
+Version 16.0.5 published 2026-10-11 by GitHub Actions
+Maintainers: jonluca jamesmessinger philsturgeon
+Keywords: json schema jsonschema json-schema json-pointer $ref dereference resolve
+https://npm.im/@apidevtools/json-schema-ref-parser
+
+@babel/plugin-syntax-json-strings
+Allow parsing of the U+2028 LINE SEPARATOR and U+2029 PARAGRAPH SEPARATOR in JS strings
+Version 7.8.3 published 2020-01-13 by nicolo-ribaudo
+Maintainers: hzoo existentialism nicolo-ribaudo jlhwung
+Keywords: babel-plugin
+https://npm.im/@babel/plugin-syntax-json-strings
+
+@auralisai/mcp
+Auralis als Werkzeug fuer KI-Assistenten: Bilder, Videos und Sprachausgabe direkt im Gespraech erzeugen.
+Version 0.1.2 published 2026-10-25 by mrstemmel
+Maintainers: mrstemmel
+Keywords: mcp modelcontextprotocol auralis text-to-image text-to-video text-to-speech ai
+https://npm.im/@auralisai/mcp
+
